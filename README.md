@@ -1,9 +1,7 @@
 # Dashi
-Dashi is a web application which allows users to search restaurants nearby, collect favorite restaurants and get recommended restaurants
-according to visit history. The initial thoughts on developing this application is that we want to improve Yelp restaurant recommendation
-experience.
+Dashi is a web application which allows users to search restaurants nearby, update preference and view recommended restaurants. The initial thoughts on developing this application is to use personalization to improve restaurant search and recommendation.
 
-## Deployment on Amazon Web Service
+## Deployment on AWS
 ### Step 1. Launch an instance (Ubuntu linux) on EC2
 ### Step 2. Connect to the instance
 For Mac:
