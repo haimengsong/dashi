@@ -92,7 +92,7 @@ Then input the password "root"
 
 For Mac:
 
-`scp -i ~/Downloads/mykey.pem  ~/Desktop/Dashi.war ubuntu@YOUR_INSTANCE_IP:~/`
+`scp -i ~/Downloads/[YOUR_KEY_NAME].pem  Dashi.war ubuntu@YOUR_INSTANCE_IP:~/`
 
 For Windows: use [WinSCP](https://winscp.net/download/WinSCP-5.9.4-Setup.exe)
 
